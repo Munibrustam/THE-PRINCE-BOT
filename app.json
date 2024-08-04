@@ -10,13 +10,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince;923092668108;GDS"
-
-     },
-      "DATABASE_URL": {
-      "description": "your mongodb database url",
-      "required": false,
-      "value": ""
+      "value": "923092668108;Prince"
       },
      "MODE": {
       "description": "mode public or private",
